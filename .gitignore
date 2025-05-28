@@ -1,0 +1,30 @@
+# Model files (too large for GitHub)
+*.pt
+*.pth
+*.onnx
+models/
+checkpoints/
+
+# Gradio certificates and cache
+.gradio/
+gradio_cached_examples/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and outputs
+*.log
+logs/
+runs/
+flagged/
+output_video.mp4
+
+# Large data files
+*.mp4
+*.avi
+*.mov
+
+# Environment
+.env
