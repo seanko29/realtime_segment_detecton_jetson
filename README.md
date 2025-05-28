@@ -85,4 +85,18 @@ Weights can be found in the [Huggingface repo](https://huggingface.co/mit-han-la
 Place the models under `assets/checkpoints/sam` for EfficientViT-SAMs.
 YOLO models are automatically downloaded from ultralytics library.
 
+## Results
+
+### Video Before - and After Detection
+https://github.com/user-attachments/assets/eeebe24f-a921-4c25-bb62-0a4cc748c263
+
+https://github.com/user-attachments/assets/952e3721-c630-4a17-8b7d-75f5bfb695b2
+
+
+## Image Prediction Screenshot
+![image](https://github.com/user-attachments/assets/98685cb8-dc31-4e8e-b47a-ba23d7e7266d)
+
+
+
+
 Codes are heaviliy borrowed from [Husky-AI9](https://github.com/Husky-AI9/Realtime_Language_Segment_Anything])
