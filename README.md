@@ -92,7 +92,8 @@ YOLO models are automatically downloaded from ultralytics library.
 https://github.com/user-attachments/assets/eeebe24f-a921-4c25-bb62-0a4cc748c263
 
 ### Inference Results
-https://github.com/user-attachments/assets/31b211be-b5e4-4dad-999b-3d8046405673
+https://github.com/user-attachments/assets/22cb40e1-10e0-4ad8-a372-262ae3dec759
+
 
 
 
