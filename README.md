@@ -45,14 +45,14 @@ In the Jetson Orin AGX, the torchvision, torch version had problems on Jetson Pa
 Therefore, I followed the JetPack 6.0 Torchv2.3.0 under this [link]( https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048) (It is a same link above in software requirements for just who scrolled quick!). 
 
 #### Verify CUDA Installation
-'''
+```
 bash
 sudo apt update
 sudo apt install -y python3-pip python3-dev python3-venv
 sudo apt install -y libopencv-dev python3-opencv
 sudo apt install -y libfreetype6-dev libpng-dev libjpeg-dev
 sudo apt install -y git wget curl
-'''
+```
 
 
 ## Project Structure
