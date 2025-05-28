@@ -1,5 +1,6 @@
-# realtime_segment_detection_jetson
+# Realtime, Video and Image Language/Text-Based Segmentation and Detection using Jetson Orin AGX. 
 Realtime Language/Text-based Segment &amp; Detection using Jetson Orin AGX
+Works also remote (headless-CV) version but real-time inference with headless version is quite slow. 
 
 
 # Realtime Language Segment Anything
